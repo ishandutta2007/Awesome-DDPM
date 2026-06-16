@@ -25,6 +25,25 @@ Denoising Diffusion Probabilistic Models (DDPMs) are generative models that cons
 | :--- | :--- | :--- | :--- | :--- |
 | **Score-Based Generative Models (SGMs) / SDEs** | A mathematically equivalent framework that treats the diffusion process as a continuous-time Stochastic Differential Equation (SDE) rather than discrete steps. This approach excels at generating continuous data and allows for exact likelihood computation. | 2020 | [arXiv:2011.13456](https://arxiv.org/abs/2011.13456) | [Detailed Info](./docs/score-based-sde.md) |
 
+## 🚀 Common Use Cases
+
+*   **Text-to-Image Generation 📝➡️🖼️:** Creating completely new, high-quality images from text descriptions.
+*   **Image-to-Image / Inpainting 🖼️➡️🎨:** Filling in missing or masked parts of an existing image.
+*   **Super-Resolution 🔍➡️✨:** Taking a blurry or low-resolution image and upscaling it to a sharp, high-definition version.
+
+---
+
+## 🏷️ SEO & Metadata
+<!--
+Keywords: DDPM, Denoising Diffusion Probabilistic Models, Generative AI, Machine Learning, Stable Diffusion, LDM, DDIM, Guided Diffusion, Score-Based Models, AI Papers, Awesome List
+Description: A curated collection of the best resources, papers, and implementations of Denoising Diffusion Probabilistic Models (DDPM).
+-->
+assifier-free guidance. This allows the model to align its outputs with specific conditions, such as text prompts (e.g., DALL·E 2) or class labels. | 2021 | [arXiv:2105.05233](https://arxiv.org/abs/2105.05233) | [Detailed Info](./docs/guided-diffusion.md) |
+
+| Model | Description | Year | Paper Link | More Details |
+| :--- | :--- | :--- | :--- | :--- |
+| **Score-Based Generative Models (SGMs) / SDEs** | A mathematically equivalent framework that treats the diffusion process as a continuous-time Stochastic Differential Equation (SDE) rather than discrete steps. This approach excels at generating continuous data and allows for exact likelihood computation. | 2020 | [arXiv:2011.13456](https://arxiv.org/abs/2011.13456) | [Detailed Info](./docs/score-based-sde.md) |
+
 ## Common Use Cases
 
 * **Text-to-Image Generation:** Creating completely new, high-quality images from text descriptions.
