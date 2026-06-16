@@ -37,7 +37,17 @@ Denoising Diffusion Probabilistic Models (DDPMs) are generative models that cons
 <!--
 Keywords: DDPM, Denoising Diffusion Probabilistic Models, Generative AI, Machine Learning, Stable Diffusion, LDM, DDIM, Guided Diffusion, Score-Based Models, AI Papers, Awesome List
 Description: A curated collection of the best resources, papers, and implementations of Denoising Diffusion Probabilistic Models (DDPM).
--->
+
+## 📈 Star History
+<div align="center">
+   <a href="https://www.star-history.com/#ishandutta2007/Awesome-DDPM&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-DDPM&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-DDPM&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-DDPM&type=Date" />
+    </picture>
+   </a>
+</div>
 assifier-free guidance. This allows the model to align its outputs with specific conditions, such as text prompts (e.g., DALL·E 2) or class labels. | 2021 | [arXiv:2105.05233](https://arxiv.org/abs/2105.05233) | [Detailed Info](./docs/guided-diffusion.md) |
 
 | Model | Description | Year | Paper Link | More Details |
